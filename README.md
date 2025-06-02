@@ -1,4 +1,4 @@
-# 📧 Automated Emails
+# 📧 Automated Resume Outreach System
 
 A Python-based automation tool for sending bulk personalized emails using data from an Excel sheet.
 
