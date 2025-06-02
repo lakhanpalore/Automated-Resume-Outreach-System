@@ -2,11 +2,6 @@
 
 A **Python automation tool** to send personalized emails in bulk using data from an Excel spreadsheet. It’s ideal for recruiters, job seekers, educators, or anyone who needs to contact multiple people with customized content and attachments.
 
-> 💡 Designed to be simple, reliable, and easy to configure.
-
----
-
-![Automated Emails Banner](images/email-banner.png)
 
 ## 📝 Overview
 
