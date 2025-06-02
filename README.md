@@ -51,21 +51,12 @@ YAML`
 | John Doe  | john.doe@email.com  |
 | Jane Smith| jane.smith@email.com|
 
-<p align="center">
-  <img src="images/excel-sample.png" alt="Excel Sample" width="500"/>
-</p>
+
 
 ---
 
 ### 💌 Terminal Output
 
-<p align="center">
-  <img src="images/terminal-screenshot.png" alt="Script Terminal Screenshot" width="600"/>
-</p>
-
----
-
-### 📁 Email Log
 ![image](https://github.com/user-attachments/assets/e50cbf04-bff6-4ea9-8997-da77412ffe8e)
 
 ```text
